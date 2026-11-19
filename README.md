@@ -1,5 +1,5 @@
 ## Hi there 👋
-### Simge Karsavuranoğlu
+### Simge Karsavuranoglu
 
 Computer Engineering student at Ankara University. Currently an AI engineering intern at Limak Cement, working on computer vision. Previously interned at ASELSAN as a software engineer (C++, Linux).
 
